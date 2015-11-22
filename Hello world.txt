@@ -1,2 +1,3 @@
 print("Hello, this is a great world.")
 print("хоп хоп раз и отредактировал")
+print ("Hello")
